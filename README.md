@@ -35,6 +35,10 @@ This project uses Power BI to analyze historical real estate sales data in Conne
 - `Dataset/`: Folder containing raw and cleaned data.
 - `Screenshots/`: Folder with high-quality images of the dashboard visuals.
 
+
+##Dashboard Look
+![image](https://github.com/user-attachments/assets/8f690e86-9f33-489f-a3f3-86b9f0568aba)
+
 ## Video Walkthrough
 Watch the dashboard in action: [[Video Link](#)](https://youtu.be/DkNGw5OfX3Y)  
 (*Replace with the YouTube or hosted link for the video*).
