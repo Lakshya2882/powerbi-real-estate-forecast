@@ -41,7 +41,7 @@ This project uses Power BI to analyze historical real estate sales data in Conne
 
 ## Video Walkthrough
 Watch the dashboard in action: [[Video Link](#)](https://youtu.be/DkNGw5OfX3Y)  
-(*Replace with the YouTube or hosted link for the video*).
+
 
 ## How to View the Dashboard
 1. Download [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
